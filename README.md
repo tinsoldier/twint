@@ -1,10 +1,12 @@
-20220207.0
+20220228.0
 
 # About this fork
 
 [This repository](https://github.com/minamotorin/twint) is the fork of [https://github.com/twintproject/twint](https://github.com/twintproject/twint) and for myself.
 
 Modified by [minamotorin](https://github.com/minamotorin).
+
+About problem of Twint from this fork, please open issues on [minamotorin/twint](https://github.com/minamotorin/twint/issues).
 
 ## Updates from twintproject/twint
 

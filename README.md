@@ -1,4 +1,4 @@
-20220308.0
+20220308.1
 
 # About this fork
 
@@ -50,7 +50,7 @@ I think this is because the fields of the result table are not exactly the same 
 
 ### import name 'CeilTimeout' from 'aiohttp.helpers'
 
-[The commit that caused this problem](https://github.com/twintproject/twint/commit/fef94a5738146b36eba696607c9bb9de76f539a7}
+[The commit that caused this problem](https://github.com/twintproject/twint/commit/fef94a5738146b36eba696607c9bb9de76f539a7)
 
 #### Related
 

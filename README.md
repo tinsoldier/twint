@@ -1,4 +1,4 @@
-20220308.1
+20220308.2
 
 # About this fork
 
@@ -21,7 +21,6 @@ This problem doesn't happen recently.
 - [twintproject/twint#1328](https://github.com/twintproject/twint/pull/1328)
 - [twintproject/twint#1061](https://github.com/twintproject/twint/issues/1061)
 - [twintproject/twint#1114](https://github.com/twintproject/twint/issues/1114)
-- [twintproject/twint#1361](https://github.com/twintproject/twint/issues/1361)
 
 ### json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 
@@ -34,6 +33,7 @@ I think this is because the fields of the result table are not exactly the same 
 #### Related 
 
 - [twintproject/twint#1335](https://github.com/twintproject/twint/issues/1335)
+- [twintproject/twint#1361](https://github.com/twintproject/twint/issues/1361)
 
 ### [-] TWINT requires Python version 3.6+.
 

@@ -1,4 +1,4 @@
-20220228.0
+20220308.0
 
 # About this fork
 
@@ -21,6 +21,7 @@ This problem doesn't happen recently.
 - [twintproject/twint#1328](https://github.com/twintproject/twint/pull/1328)
 - [twintproject/twint#1061](https://github.com/twintproject/twint/issues/1061)
 - [twintproject/twint#1114](https://github.com/twintproject/twint/issues/1114)
+- [twintproject/twint#1361](https://github.com/twintproject/twint/issues/1361)
 
 ### json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 
@@ -40,9 +41,34 @@ I think this is because the fields of the result table are not exactly the same 
 
 - [twintproject/twint#1344](https://github.com/twintproject/twint/issues/1344)
 - [twintproject/twint#1345](https://github.com/twintproject/twint/pull/1345)
-- [twintproject/twint#1344](https://github.com/twintproject/twint/issues/1346)
+- [twintproject/twint#1346](https://github.com/twintproject/twint/issues/1346)
 - [twintproject/twint#1309](https://github.com/twintproject/twint/pull/1309)
 - [twintproject/twint#1313](https://github.com/twintproject/twint/issues/1313)
+- [twintproject/twint#1351](https://github.com/twintproject/twint/pull/1351)
+- [twintproject/twint#1356](https://github.com/twintproject/twint/pull/1356)
+- [twintproject/twint#1366](https://github.com/twintproject/twint/issues/1366)
+
+### import name 'CeilTimeout' from 'aiohttp.helpers'
+
+[The commit that caused this problem](https://github.com/twintproject/twint/commit/fef94a5738146b36eba696607c9bb9de76f539a7}
+
+#### Related
+
+- [twintproject/twint#1360](https://github.com/twintproject/twint/issues/1360)
+- [twintproject/twint#1297](https://github.com/twintproject/twint/issues/1297)
+- [twintproject/twint#1299](https://github.com/twintproject/twint/pull/1299)
+- [twintproject/twint#1315](https://github.com/twintproject/twint/pull/1315)
+- [twintproject/twint#1316](https://github.com/twintproject/twint/pull/1316)
+- [twintproject/twint#1319](https://github.com/twintproject/twint/pull/1319)
+- [twintproject/twint#1323](https://github.com/twintproject/twint/pull/1323)
+- [twintproject/twint#1326](https://github.com/twintproject/twint/pull/1326)
+- [twintproject/twint#1332](https://github.com/twintproject/twint/issues/1332)
+- [twintproject/twint#1337](https://github.com/twintproject/twint/issues/1337)
+- [twintproject/twint#1340](https://github.com/twintproject/twint/issues/1340)
+- [twintproject/twint#1314](https://github.com/twintproject/twint/issues/1314)
+- [twintproject/twint#1350](https://github.com/twintproject/twint/pull/1350)
+- [twintproject/twint#1357](https://github.com/twintproject/twint/issues/1357)
+- [twintproject/twint#1367](https://github.com/twintproject/twint/issues/1367)
 
 ## References
 

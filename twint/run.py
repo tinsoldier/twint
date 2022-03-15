@@ -380,7 +380,7 @@ def Lookup(config):
     config.Profile = False
     config.Lookup = True
     config.Favorites = False
-    config.FOllowing = False
+    config.Following = False
     config.Followers = False
     config.TwitterSearch = False
     run(config)

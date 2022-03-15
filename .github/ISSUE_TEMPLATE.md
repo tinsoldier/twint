@@ -1,6 +1,7 @@
 # Initial Check
 <!--
-If the issue is a request please specify that it is a request in the title (Example: [REQUEST] more features). If this is a question regarding 'twint' please specify that it's a question in the title (Example: [QUESTION] What is x?). Please **only** submit issues related to 'twint'. Thanks.
+  If the issue is a request please specify that it is a request in the title (Example: [REQUEST] more features). If this is a question regarding 'twint' please specify that it's a question in the title (Example: [QUESTION] What is x?). Please **only** submit issues related to 'twint'. Thanks.
+  Please hide copyrighted material if you don't have right.
 -->
 
 <!--
@@ -19,6 +20,7 @@ If the issue is a request please specify that it is a request in the title (Exam
 # Description of Issue
 <!--
   Please use **as much detail as possible.**
+  If you report about error, please put **full** Traceback.
 -->
 
 # Environment Details

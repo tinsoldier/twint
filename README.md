@@ -1,4 +1,4 @@
-20220308.2
+20220316.0
 
 # About this fork
 
@@ -69,6 +69,14 @@ I think this is because the fields of the result table are not exactly the same 
 - [twintproject/twint#1350](https://github.com/twintproject/twint/pull/1350)
 - [twintproject/twint#1357](https://github.com/twintproject/twint/issues/1357)
 - [twintproject/twint#1367](https://github.com/twintproject/twint/issues/1367)
+
+### Some problems with since and until
+
+#### Related
+
+- [twintproject/twint#1136](https://github.com/twintproject/twint/issues/1136)
+- [twintproject/twint#1371](https://github.com/twintproject/twint/issues/1371)
+- [twintproject/twint@26769a3](https://github.com/twintproject/twint/commit/26769a33452aed7709a14ad0691bdfb3ead5fbb4)
 
 ## References
 

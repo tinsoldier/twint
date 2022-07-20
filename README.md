@@ -1,4 +1,4 @@
-20220316.0
+20220720.0
 
 # About this fork
 
@@ -25,10 +25,12 @@ This problem doesn't happen recently.
 ### json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 
 The fix is **not complete**.
-`twint.run.Profile` will work but `twint.run.db` will not.
-This means [`test.py`](./test.py) causes an error.
+`twint.run.Profile` will work but values are incorrect in some keys and [`test.py`](./test.py) causes an error.
+See also [#13](https://github.com/minamotorin/twint/issues/13).
 
 I think this is because the fields of the result table are not exactly the same as the traditional ones.
+
+About `twint.run.db`, see [#3](https://github.com/minamotorin/twint/issues/3) and [#11](https://github.com/minamotorin/twint/pull/11).
 
 #### Related 
 
@@ -77,6 +79,10 @@ I think this is because the fields of the result table are not exactly the same 
 - [twintproject/twint#1136](https://github.com/twintproject/twint/issues/1136)
 - [twintproject/twint#1371](https://github.com/twintproject/twint/issues/1371)
 - [twintproject/twint@26769a3](https://github.com/twintproject/twint/commit/26769a33452aed7709a14ad0691bdfb3ead5fbb4)
+
+### Remove workaround for [twintproject/twint#597](https://github.com/twintproject/twint/issues/597)
+
+See [#12](https://github.com/minamotorin/twint/issues/12).
 
 ## References
 

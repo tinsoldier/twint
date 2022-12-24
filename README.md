@@ -1,4 +1,4 @@
-20220720.0
+20221224.0
 
 # About this fork
 
@@ -124,7 +124,6 @@ Twitter limits scrolls while browsing the user timeline. This means that with `.
 - aiohttp;
 - aiodns;
 - beautifulsoup4;
-- cchardet;
 - dataclasses
 - elasticsearch;
 - pysocks;

@@ -1,4 +1,4 @@
-20221224.0
+20221230.0
 
 # About this fork
 
@@ -88,6 +88,7 @@ See [#12](https://github.com/minamotorin/twint/issues/12).
 
 - [snscrape](https://github.com/JustAnotherArchivist/snscrape)
 - [gallery-dl](https://github.com/mikf/gallery-dl)
+- [woluxwolu/twint](https://github.com/woluxwolu/twint)
 
 ## License
 

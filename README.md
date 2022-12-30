@@ -1,4 +1,4 @@
-20221230.0
+20221230.1
 
 # About this fork
 
@@ -83,6 +83,10 @@ About `twint.run.db`, see [#3](https://github.com/minamotorin/twint/issues/3) an
 ### Remove workaround for [twintproject/twint#597](https://github.com/twintproject/twint/issues/597)
 
 See [#12](https://github.com/minamotorin/twint/issues/12).
+
+### Remove [cChardet](https://github.com/PyYoshi/cChardet) from dependencies
+
+See [#14](https://github.com/minamotorin/twint/issues/14).
 
 ## References
 

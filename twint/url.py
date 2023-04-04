@@ -94,6 +94,7 @@ async def Search(config, init):
         ('spelling_corrections', '0'),
         ('ext', 'mediaStats%2ChighlightedLabel'),
         ('tweet_search_mode', 'live'),  # this can be handled better, maybe take an argument and set it then
+        ('src','spelling_expansion_revert_click'),
     ]
     if not config.Popular_tweets:
         params.append(('f', 'tweets'))

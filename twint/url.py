@@ -91,7 +91,7 @@ async def Search(config, init):
         ('query_source', 'typed_query'),
         # ('pc', '1'),
         ('cursor', str(init)),
-        ('spelling_corrections', '1'),
+        ('spelling_corrections', '0'),
         ('ext', 'mediaStats%2ChighlightedLabel'),
         ('tweet_search_mode', 'live'),  # this can be handled better, maybe take an argument and set it then
     ]
